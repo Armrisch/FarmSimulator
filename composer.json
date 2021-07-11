@@ -1,0 +1,19 @@
+{
+    "name": "vendor/farm_simulator",
+    "description": "Farm Simulator",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arman",
+            "email": "armrisch@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4" : {
+            "core\\" : "core/"
+        }
+
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
